@@ -4,7 +4,7 @@ import { Header } from "../../components";
 import { Link } from "react-router-dom";
 
 const Home = () => {
-  const title = "info.nacho.ch - home of the nacho archive website";
+  const title = "home of nacho archive website";
   return (
     <div>
       <Header title={title} />
